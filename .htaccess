@@ -1,0 +1,3 @@
+ErrorDocument 404 https://ava-brows.vass-group.xyz/404
+ErrorDocument 403 https://ava-brows.vass-group.xyz/403
+
